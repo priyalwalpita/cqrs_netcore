@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/priyal/source/Blog/CQRS__/CQRS.Api/CQRS.Api.csproj",
+    "projectName": "CQRS.Api",
+    "projectPath": "/home/priyal/source/Blog/CQRS__/CQRS.Api/CQRS.Api.csproj",
+    "outputPath": "/home/priyal/source/Blog/CQRS__/CQRS.Api/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/priyal/source/Blog/CQRS__/CQRS.Common/CQRS.Common.csproj": {
+            "projectPath": "/home/priyal/source/Blog/CQRS__/CQRS.Common/CQRS.Common.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "RawRabbit": {
+          "target": "Package",
+          "version": "2.0.0-beta8"
+        },
+        "RawRabbit.DependencyInjection.ServiceCollection": {
+          "target": "Package",
+          "version": "2.0.0-beta8"
+        },
+        "RawRabbit.Operations.Publish": {
+          "target": "Package",
+          "version": "2.0.0-beta8"
+        },
+        "RawRabbit.Operations.Subscribe": {
+          "target": "Package",
+          "version": "2.0.0-beta8"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

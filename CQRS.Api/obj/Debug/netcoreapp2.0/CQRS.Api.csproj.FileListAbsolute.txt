@@ -1,0 +1,12 @@
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Api.deps.json
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Api.runtimeconfig.json
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Api.runtimeconfig.dev.json
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Api.dll
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Api.pdb
+/home/priyal/source/Blog/CQRS/CQRS.Api/obj/Debug/netcoreapp2.0/CQRS.Api.csproj.CoreCompileInputs.cache
+/home/priyal/source/Blog/CQRS/CQRS.Api/obj/Debug/netcoreapp2.0/CQRS.Api.AssemblyInfoInputs.cache
+/home/priyal/source/Blog/CQRS/CQRS.Api/obj/Debug/netcoreapp2.0/CQRS.Api.AssemblyInfo.cs
+/home/priyal/source/Blog/CQRS/CQRS.Api/obj/Debug/netcoreapp2.0/CQRS.Api.dll
+/home/priyal/source/Blog/CQRS/CQRS.Api/obj/Debug/netcoreapp2.0/CQRS.Api.pdb
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Common.dll
+/home/priyal/source/Blog/CQRS/CQRS.Api/bin/Debug/netcoreapp2.0/CQRS.Common.pdb
